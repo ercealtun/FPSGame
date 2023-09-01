@@ -1,0 +1,11 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RiderLC-0013.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Erce\Desktop\FPS_Game_Simulation\FPS_Game_Simulation\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\RiderLC\RiderLC.cpp.obj"
+"C:\Users\Erce\Desktop\FPS_Game_Simulation\FPS_Game_Simulation\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\RiderLC\Default.rc2.res"
+/OUT:"C:\Users\Erce\Desktop\FPS_Game_Simulation\FPS_Game_Simulation\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\RiderLC\UnrealEditor-RiderLC-0013.lib"
